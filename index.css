@@ -1,0 +1,29 @@
+
+
+
+
+
+.container {
+            width: 1290px;
+            height: 400px;
+            border: 20px solid rgb(6, 131, 180);
+            padding: 20px;
+            text-align: center;
+            margin: 0px ;
+            right: 180%;
+            top: 0%;}
+               
+                  
+          
+            .image-container{
+                  position:relative ;
+                      right:"120px";
+              }
+              .mi-imagen {
+                  width: 600px; /* Cambia el ancho de la imagen a 200 píxeles */
+                  border: 1px aquamarine rgb(61, 15, 230); /* Agrega un borde negro de 1 píxel */
+                  border-radius: 5px; /* Agrega bordes redondeados de 5 píxeles */
+                  box-shadow: 20px 20px 4px rgba(16, 141, 224, 0.459); /* Agrega una sombra a la imagen */}
+
+
+

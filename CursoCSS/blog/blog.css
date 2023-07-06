@@ -1,0 +1,64 @@
+
+* {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 26px;
+  color: #ffffff;
+    background: linear-gradient(to right, #000000, #333333);
+    background: -webkit-linear-gradient(to right, #000000, #333333);
+    background: -moz-linear-gradient(to right, #000000, #333333);
+    background: -o-linear-gradient(to right, #000000, #333333);
+    background: -ms-linear-gradient(to right, #000000, #333333);
+}
+  .perfil{
+    display: inline-block;  
+    padding-right:7%;
+    float: left;
+    width: 250px;
+    background: none;
+    width: 120px;
+    height: 120px;
+  }
+
+  h1{
+    
+    font-size: 65px;
+    text-align: center;
+  }
+
+  h2{
+    font-size: 45px;
+    text-align: center;
+  }
+ 
+  a{
+    display: inline;
+    padding: 40%;
+    background: none;
+  }
+
+  img{
+    background: none;
+    
+    border-color: #ffffff;
+  }
+
+  p{
+    padding-left: 30%;
+  }
+  
+  .email{
+    float: left;
+  }
+  
+
+
+
+
+    
+  
+  
+  
+  
+  
+
+   
